@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lenta.ru</string>
+    <string name="Russia">Россия</string>
+    <string name="world">Мир</string>
+    <string name="USSR">Бывший СССР</string>
+    <string name="finance">Финансы</string>
+    <string name="business">Бизнес</string>
+    <string name="strong">Силовые структуры</string>
+    <string name="science">Наука и техника</string>
+    <string name="sport">Спорт</string>
+    <string name="culture">Культура</string>
+    <string name="internet">Интернет и СМИ</string>
+    <string name="values">Ценности</string>
+    <string name="travels">Путешествия</string>
+    <string name="life">Из жизни</string>
+    <string name="categories">Категории</string>
+    <string name="title">Заголовок</string>
+    <string name="subtitle">Подзаголовок</string>
+    <string name="drawer_open">Меню открыто</string>
+    <string name="drawer_close">Меню закрыто</string>
+    <string name="all_news">Все новости</string>
+    <string name="date">Дата новости</string>
+    <string name="numbers">01.01.2015</string>
+    <string name="text">текст</string>
+    <string name="link">Ссылка:</string>
+    <string name="update">Обновить</string>
+    <string name="all_catigories">Все категории</string>
+</resources>
